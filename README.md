@@ -1,4 +1,4 @@
-SecureBank JDBC - Java Banking System
+Code Cash - Java Banking System
 A lightweight banking application demonstrating secure database operations with Java and MySQL.
 
 Key Features
